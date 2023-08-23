@@ -1,0 +1,19 @@
+tp/
+
+#### DS STORE
+**/.DS_STORE
+.DS_Store
+
+#### PYTHON
+__pycache__/
+._*
+.pyc
+*.pyc
+.pytest_cache/
+**/*.pyc
+**/*.swp
+
+
+#### VS CODE
+.vscode/
+
